@@ -1,0 +1,49 @@
+
+
+.custom-h1 {
+    font-size: 1.5rem; /* Ukuran font */ /* Jarak antara baris */
+    font-weight: bold; /* Ketebalan font */
+    /* Atur properti lain sesuai kebutuhan Anda */
+  }
+/* 
+  /* body {
+    min-height: 2000px; /* Menambahkan pengguliran vertikal */
+
+.custom-font {
+  font-family: sans-serif;
+}
+
+.col .custom-img {
+  max-width: 1200px; 
+    height: auto;
+}
+ #satu{
+ width: 1000px;
+ height: auto;
+}
+
+#dua{
+  width: 1000px;
+  height: auto;
+ }
+
+ #tiga{
+  width: 1000px;
+  height: auto;
+ }
+
+ #gambar{
+  display: block;
+  width: 100%;
+  height: auto;
+ }
+
+
+
+ .align-middle {
+  display: inline-block;
+  vertical-align: middle;
+}
+ 
+
+
